@@ -2,34 +2,26 @@
 
 ## Introduction
 
-> Write a short reflection on your experience using the course IDE to complete your first programming assignment. Briefly describe what it was like to write, run, and test code in an IDE for the first time. Introduce the three IDE features you selected and briefly explain why learning to use IDE features can help you as a beginning programmer. Save specific examples for the feature sections below. Delete these instructions when done.
+Completing my first programming assignment with the course IDE was something new for me. At first, it took some time to get used to writing, running, and testing code all in one place, especially since I’m just starting out. Still, it made the work feel less overwhelming. Some features really made coding easier, and learning them early helped me focus on solving problems instead of struggling with the tools.
 
-TODO: Replace with your introduction here.
+## Feature 1 – Syntax Highlighting (Color-Coded Code)
 
-## Feature 1 – TODO: Replace with name of your Feature1
+The first thing I noticed was how the editor uses color. Different parts of the code, like keywords and text inside quotes, each had their own color. This made it much easier to read. Instead of seeing a block of plain text, the colors helped me quickly tell the parts apart and spot mistakes before running the code.
 
-> In one paragraph, identify the first feature you selected, explain what it does, and describe how it helped you while developing or testing your program. Include specific details about how it improved your workflow, made coding easier, or helped you find and fix errors more efficiently. Delete these instructions when done.
+## Feature 2 – Running Code and Seeing Output
 
-TODO: Replace with your Feature 1 paragraph here.
+Another helpful feature was being able to run the program and see the output right away. After writing the code, I entered a name like Alex and an age, pressed enter, and the program replied with "Hello Alex! You were born in 2002." It felt good to see it work as expected. Running it immediately let me know the code worked, instead of having to guess or wait.
 
-## Feature 2 – TODO: Replace with name of your Feature2
+## Feature 3 – Editing and Fixing Mistakes
 
-> Write one paragraph explaining your second feature. Describe how it functions, what benefits it provided while coding, and why it might be valuable for beginning programmers. Connect the feature to your personal experience using it in this project. Delete these instructions when done.
-
-TODO: Replace with your Feature 2 paragraph here.
-
-## Feature 3 – TODO: Replace with name of your Feature3
-
-> In a single paragraph, identify and explain a third IDE feature. Discuss how it enhanced your programming experience or supported best practices such as readability, debugging, or organization. Give a brief, real example of how you used it. Delete these instructions when done.
-
-TODO: Replace with your Feature 3 paragraph here.
+The third feature I noticed was how different the editor is from the plain terminal. In the terminal, I couldn’t move around or delete mistakes once I made them. I kept trying to fix errors, but it wouldn’t let me. The editor was much more flexible. I could move through the text, make changes, and fix mistakes instead of being stuck. This showed me how much easier it is to catch and fix errors with the right tool.
 
 ## Conclusion
 
-> Summarize what you learned from using your IDE in this assignment. Reflect on how these features will support your future programming work and improve your confidence as a new programmer. Delete these instructions when done.
-
-TODO: Replace with your conclusion here.
+Overall, using an IDE made coding feel easier to handle, even for a beginner like me. The colors helped me read the code, running it showed me right away if it worked, and the editor let me fix mistakes instead of getting stuck. These small features made things less stressful and let me focus on solving the problem.
 
 ## References
 
-TODO: Replace with your source citations here in APA style, if any. Delete section heading and this text if not used.
+Anthropic. (2026). Claude [Large language model]. https://claude.ai
+
+Note: I used Claude (Anthropic, 2026) to help organize and improve the wording of my review. The experiences and observations are my own.
